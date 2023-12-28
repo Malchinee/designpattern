@@ -1,7 +1,7 @@
 package top.malchinee.algorithm.impl;
 
 
-import top.malchinee.Context;
+import top.malchinee.algorithm.Context;
 import top.malchinee.algorithm.SortAlgorithm;
 
 public class TryQuickSort{

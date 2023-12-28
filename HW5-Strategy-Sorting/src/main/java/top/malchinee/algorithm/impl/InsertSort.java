@@ -44,7 +44,7 @@ package top.malchinee.algorithm.impl;//=========================================
    1  5  13 14 15 18 19 20 25 88 89 90
 */
 
-import top.malchinee.Context;
+import top.malchinee.algorithm.Context;
 import top.malchinee.algorithm.SortAlgorithm;
 
 public class InsertSort implements SortAlgorithm {

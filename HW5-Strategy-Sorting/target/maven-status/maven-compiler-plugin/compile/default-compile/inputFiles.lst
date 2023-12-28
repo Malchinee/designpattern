@@ -1,0 +1,9 @@
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/BubbleSort.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/InsertSort.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/SortAlgorithm.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/Context.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/HeapSort.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/ClientGUI.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/BidirBubbleSort.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/TryQuickSort.java
+/root/Code/design-patterns/HW5-Strategy-Sorting/src/main/java/top/malchinee/algorithm/impl/QuickSort.java

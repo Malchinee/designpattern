@@ -1,0 +1,10 @@
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/visitor/impl/CEOVisitor.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/visitor/impl/CTOVisitor.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/BusinessReport.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/person/impl/Researcher.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/Client.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/person/impl/Manager.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/person/impl/Engineer.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/visitor/Visitor.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/person/Staff.java
+/root/Code/design-patterns/HW7-Visitor-Staff/src/main/java/top/malchinee/visitor/impl/HRVisitor.java

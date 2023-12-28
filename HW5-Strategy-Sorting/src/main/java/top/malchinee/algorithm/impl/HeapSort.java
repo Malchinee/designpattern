@@ -13,7 +13,7 @@ package top.malchinee.algorithm.impl;//=========================================
 // the sorted elements (in the lower part of the tree)
 //=================================================
 
-import top.malchinee.Context;
+import top.malchinee.algorithm.Context;
 import top.malchinee.algorithm.SortAlgorithm;
 
 public class HeapSort implements SortAlgorithm {

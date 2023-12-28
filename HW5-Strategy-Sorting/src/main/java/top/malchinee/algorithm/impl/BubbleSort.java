@@ -17,7 +17,7 @@ package top.malchinee.algorithm.impl;
 //because they have already been in correct order
 //=======================================================//
 
-import top.malchinee.Context;
+import top.malchinee.algorithm.Context;
 import top.malchinee.algorithm.SortAlgorithm;
 
 public class BubbleSort implements SortAlgorithm {
