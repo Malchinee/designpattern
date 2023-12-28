@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../HW3-Adapter-CustomerInfo-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/../HW5-Strategy-Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/../HW7-Visitor-Staff/pom.xml" />
+        <option value="$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/pom.xml" />
+        <option value="$PROJECT_DIR$/../Projecte2-BarchSeq-Population/pom.xml" />
+        <option value="$PROJECT_DIR$/../Project2-BarchSeq-Population/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17 (WSL)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW3-Adapter-CustomerInfo-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW3-Adapter-CustomerInfo-validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW5-Strategy-Sorting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW5-Strategy-Sorting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW7-Visitor-Staff/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../HW7-Visitor-Staff/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/java/top/malchinee/decrypt/impl/DecryptedInfo1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/java/top/malchinee/decrypt/impl/DecryptedInfo2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/java/top/malchinee/decrypt/impl/DecryptedInfo3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/java/top/malchinee/txtfile/TxtFileReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project1-LayeredArchitecture-TxtFiles/src/main/resources/tp01851d.BAT" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project2-BarchSeq-Population/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Project2-BarchSeq-Population/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
